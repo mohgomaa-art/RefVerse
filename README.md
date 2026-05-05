@@ -13,7 +13,7 @@ Drop images and PDFs. Arrange. Think.
 
 <br/>
 
-[![Download](https://img.shields.io/badge/Download-Windows_EXE-0A84FF?style=for-the-badge&logo=windows&logoColor=white)](../../releases/latest/download/RefVerse.exe)
+[![Download](https://img.shields.io/badge/Download-Windows_EXE-0A84FF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/mohgomaa-art/RefVerse/releases/download/0.1.0/RefVerse_0.1.0_x64-setup.exe)
 [![Platform](https://img.shields.io/badge/Platform-Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](#)
 [![License](https://img.shields.io/badge/License-MIT-98989D?style=for-the-badge)](#)
 
