@@ -13,11 +13,11 @@ Drop images and PDFs. Arrange. Think.
 
 <br/>
 
-<a href="https://github.com/mohgomaa-art/RefVerse/releases/download/0.1.0/RefVerse_0.1.0_x64-setup.exe">
-  <img src="https://img.shields.io/badge/⬇%20%20Download%20RefVerse%20for%20Windows-2ea44f?style=for-the-badge&logoColor=white" height="52" />
-</a>
-[![Platform](https://img.shields.io/badge/Platform-Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](#)
-[![License](https://img.shields.io/badge/License-MIT-98989D?style=for-the-badge)](#)
+<a href="https://github.com/mohgomaa-art/RefVerse/releases/download/0.1.0/RefVerse_0.1.0_x64-setup.exe"><img src="https://img.shields.io/badge/⬇%20%20Download%20RefVerse%20for%20Windows-2ea44f?style=for-the-badge&logoColor=white" height="52" /></a>
+
+<br/>
+
+<a href="#"><img src="https://img.shields.io/badge/Platform-Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/License-MIT-98989D?style=for-the-badge" /></a>
 
 <br/>
 
